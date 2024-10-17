@@ -32,6 +32,6 @@ Content-Type: application/json
 Authorization: Bearer {{authToken}}
 
 {
-  "email": "pedro@example.com",
-  "password": "123456"
+  "title": "oq é typescript",
+  "content": "um js tipado"
 }
