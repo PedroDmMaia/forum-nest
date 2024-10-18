@@ -35,3 +35,11 @@ Authorization: Bearer {{authToken}}
   "title": "oq é typescript",
   "content": "um js tipado"
 }
+
+###
+
+# @name fetch_recent_question
+
+GET {{baseUrl}}/questions
+Content-Type: application/json
+Authorization: Bearer {{authToken}}
